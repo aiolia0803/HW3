@@ -15,5 +15,17 @@ strong {
     color: #f00;
 }
 
+blockquote { 
+  color: #fff ;
+  background-color: lightblue;
+}
+
+div { 
+  font-family: DFKai-SB, BiauKai, arial;
+}
+
+td[colspan="2"] {
+    font-size: 20px;
+}
 
 /* p { color: navy } */
