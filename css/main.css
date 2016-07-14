@@ -1,9 +1,64 @@
-div{
-    height: 400px;
-    width: 400px;
-    background: gold;
+body {
+	background-color: #FFFF99;
+	font-family: Î¢Ü›ÕýºÚów, "Microsoft JhengHei" , "Arial" , "Helvetica" , "sans-serif";
 }
 
-.rect{
-    background: red;
+.inside_table {
+	padding: 0px 10px;
+	border-spacing: 5px;
+}
+
+.content_pic {
+	text-align: center;
+}
+
+.content_title {
+	font-size: 15px;
+	color: #000;
+}
+.content_title2 {
+	color: #CC0000;
+	font-size: 14px;
+	font-weight: bolder;
+}
+
+.content_title2 a:link, a:visited {
+	color: #CC0000;
+	text-decoration: none;
+}
+
+td.content_header {
+	width: 94px;
+	text-align: center;
+}
+
+td[colspan="5"] {
+	width: 41px;
+	height: 41px;
+	line-height: 41px;
+}
+
+.ball_num {
+	width: 41px;
+	height: 41px;
+	border-radius: 50%;
+	font-size: 24px;
+	font-family: Arial;
+	font-weight: bolder;
+	text-align: center;
+	line-height: 41px;
+	background-color: gold;
+}
+
+.special_num {
+	width: 41px;
+	height: 41px;
+	border-radius: 50%;
+	font-size: 24px;
+	font-family: Arial;
+	font-weight: bolder;
+	text-align: center;
+	line-height: 41px;
+	background-color: red;
+	color: #fff;
 }
