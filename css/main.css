@@ -1,31 +1,5 @@
-blockquote {
-    color: blue;
+div{
+    height: 500px;
+    width: 400px;
+    background: gold;
 }
-
-h1 {
-    color: rgba(0, 0, 0, 0);
-}
-
-td[rowspan="2"] {
-    color: #fff;
-}
-
-strong {
-    color: #00f;
-    color: #f00;
-}
-
-blockquote { 
-  color: #fff ;
-  background-color: lightblue;
-}
-
-div { 
-  font-family: DFKai-SB, BiauKai, arial;
-}
-
-td[colspan="2"] {
-    font-size: 20px;
-}
-
-/* p { color: navy } */
